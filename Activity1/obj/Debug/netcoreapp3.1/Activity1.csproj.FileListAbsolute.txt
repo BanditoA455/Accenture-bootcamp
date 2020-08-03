@@ -1,0 +1,13 @@
+C:\Users\karli\Desktop\Activity1\Activity1\bin\Debug\netcoreapp3.1\Activity1.exe
+C:\Users\karli\Desktop\Activity1\Activity1\bin\Debug\netcoreapp3.1\Activity1.deps.json
+C:\Users\karli\Desktop\Activity1\Activity1\bin\Debug\netcoreapp3.1\Activity1.runtimeconfig.json
+C:\Users\karli\Desktop\Activity1\Activity1\bin\Debug\netcoreapp3.1\Activity1.runtimeconfig.dev.json
+C:\Users\karli\Desktop\Activity1\Activity1\bin\Debug\netcoreapp3.1\Activity1.dll
+C:\Users\karli\Desktop\Activity1\Activity1\bin\Debug\netcoreapp3.1\Activity1.pdb
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.csprojAssemblyReference.cache
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.AssemblyInfoInputs.cache
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.AssemblyInfo.cs
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.dll
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.pdb
+C:\Users\karli\Desktop\Activity1\Activity1\obj\Debug\netcoreapp3.1\Activity1.genruntimeconfig.cache
